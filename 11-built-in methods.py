@@ -1,8 +1,8 @@
 
- these functions are helpful in
- data validation
- find your string
- combinig them
+#  these functions are helpful in
+#  data validation
+#  find your string
+#  combinig them
 
 
 message = "most ot the people good enough"
